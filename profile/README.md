@@ -1,5 +1,9 @@
 # Agent Privacy Preserving Protocol (AP3)
 
+<img width="2000" height="800" alt="image" src="https://github.com/user-attachments/assets/fcd8250f-02ab-4e0c-b2d9-7a46e1dc8893" />
+
+<br/>
+
 **Agent Privacy-Preserving Protocol (AP3)** is an open protocol that enables **distributed collective intelligence,** without sacrificing confidentiality and regulatory posture. Collective intelligence here means the capacity of autonomous agents, tools, humans, and institutions to reason jointly and accumulate shared context across organizational, jurisdictional, and vendor boundaries.
 
 > 💡 **Documentation:** [https://ap3-protocol.org](https://ap3-protocol.org/)
